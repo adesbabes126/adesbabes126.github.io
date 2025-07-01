@@ -71,7 +71,7 @@ button:hover {
   max-width: 800px;
   width: 100%;
   margin: 2rem auto;
-  background: white;
+  background: rgba(255, 255, 255, 0.7);
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
